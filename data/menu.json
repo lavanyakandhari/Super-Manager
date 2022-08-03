@@ -1,0 +1,45 @@
+{
+    "name": "menu 1",
+    "menu": [
+        {
+            "price": 2,
+            "name": "cheese",
+            "id": 1
+        },
+        {
+            "price": 3,
+            "name": "butter",
+            "id": 2
+        },
+        {
+            "price": 5,
+            "name": "oats",
+            "id": 4
+        },
+        {
+            "price": 3,
+            "name": "juice",
+            "id": 3
+        },
+        {
+            "price": 4,
+            "name": "bread",
+            "id": 5
+        },
+        {
+            "price": 2,
+            "name": "milk",
+            "id": 7
+        },
+        {
+            "price": 10,
+            "name": "pizza",
+            "id": 10
+        },
+        {
+            "price": 3,
+            "name": "choco",
+            "id": 6
+        }
+    ]
+}

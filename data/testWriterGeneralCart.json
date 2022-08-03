@@ -1,0 +1,15 @@
+{
+    "name": "My cart",
+    "cart": [
+        {
+            "price": 3,
+            "name": "Milk",
+            "id": 1
+        },
+        {
+            "price": 2,
+            "name": "Bread",
+            "id": 2
+        }
+    ]
+}
